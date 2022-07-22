@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brischster
 - 👀 I’m interested in continuing to learn and enhance my skills related to JavaScrip, React, Mongoose & GraphQL
 - 🌱 I recently completed DU's Full Stack Coding Bootcamp
-- 💞️ I’m looking to collaborate and learn all things tied to the Bitcoin ecosystem
+- 💞️ I’m looking to collaborate and learn all things related to the Bitcoin ecosystem
 - 📫 How to reach me brischster@gmail.com
 # Where I am from:
 1. Born and raised in Manitowoc, WI
@@ -9,9 +9,9 @@
 3. Currently at 6+ years in Denver, CO.
 
 ## Family
-- Wife Nicole
-- First Daughter Joni
-- Second Daughter Hadley
+- My amazing wife Nicole
+- Two wonderful daughters Joni & Hadley
+- Bunches, the family dog
 
 <!---
 brischster/brischster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
