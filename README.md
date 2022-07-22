@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brischster
-- 👀 I’m interested in learning to code, first in JavaScript, then maybe C++
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on learning to code of beginners
+- 👀 I’m interested in continuing to learn and enhance my skills related to JavaScrip, React, Mongoose & GraphQL
+- 🌱 I recently completed DU's Full Stack Coding Bootcamp
+- 💞️ I’m looking to collaborate and learn all things tied to the Bitcoin ecosystem
 - 📫 How to reach me brischster@gmail.com
 # Where I am from:
 1. Born and raised in Manitowoc, WI
