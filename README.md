@@ -2,7 +2,7 @@
 - 👀 I’m interested in continuing to learn and enhance my skills related to JavaScrip, React, Mongoose & GraphQL
 - 🌱 I recently completed DU's Full Stack Coding Bootcamp
 - 💞️ I’m looking to collaborate and learn all things related to the Bitcoin ecosystem
-- 📫 How to reach me brischster@gmail.com
+- 📫 How to reach me brischster@reacher.me
 # Where I am from:
 1. Born and raised in Manitowoc, WI
 2. Went to college and lived in Chicago, IL for 14
